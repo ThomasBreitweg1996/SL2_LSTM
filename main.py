@@ -38,7 +38,7 @@ def read_from_csv(file):
     return data_X, data_y
 
 
-test_X, test_y = read_from_csv(data_merged)
+test_X, test_y = read_from_csv(data_david_timur)
 
 print(len(test_X))
 print(len(test_y))
