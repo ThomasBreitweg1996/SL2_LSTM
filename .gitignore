@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+___*
+
+.idea/
+
+.venv
+./venv
+venv/
+
+data/
+.data/
+data/data_chris_thomas.csv
+data/data_jonas.csv
